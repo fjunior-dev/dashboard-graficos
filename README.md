@@ -54,4 +54,4 @@ O projeto pode ser hospedado de forma simples em plataformas estáticas como **N
 ### 8. Créditos  
 Desenvolvido com **objetivo educacional**, voltado para o estudo de interfaces visuais e layout de dados.  
 
-**Assinado:** *f-juniordev*
+**Developed by f-juniordev - For educational purposes only.**
